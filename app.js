@@ -5,3 +5,6 @@ function send(){
    const newCell = newRow.insertCell(0);
    newCell.innerText =msg;
 }
+function getMessages(){
+   
+}
